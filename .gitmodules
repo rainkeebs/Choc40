@@ -1,0 +1,3 @@
+[submodule "mbk_footprints"]
+	path = mbk_footprints
+	url = https://github.com/nicoles/mbk_footprints.git
