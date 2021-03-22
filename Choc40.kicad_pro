@@ -116,7 +116,9 @@
         "solder_mask_min_width": 0.0
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.2,
+        0.25
       ],
       "via_dimensions": [
         {
@@ -433,7 +435,7 @@
   },
   "sheets": [
     [
-      "1de97ef2-112e-473c-8bb4-7cb18544ecc5",
+      "a27d36c8-6f67-4031-9e15-3c4b85035840",
       ""
     ]
   ],
