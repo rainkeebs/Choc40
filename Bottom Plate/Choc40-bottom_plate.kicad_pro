@@ -344,7 +344,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Choc40-switch_plate.kicad_pro",
+    "filename": "Choc40-bottom_plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -432,7 +432,7 @@
   },
   "sheets": [
     [
-      "35f602e9-52e9-4ec4-be09-8c5f5a3d587c",
+      "898a576d-17c4-48fc-a460-15ee01dbff31",
       ""
     ]
   ],

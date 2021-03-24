@@ -1,0 +1,15 @@
+Designator,Qnty,Comment,Cmp name,Footprint,Description,LCSC Part Number,
+"C1, ",1,1uF,C_Small,Capacitor_SMD:C_0603_1608Metric,"Unpolarized capacitor, small symbol",,C15849 
+"C2, C3, ",2,0.1uF,C_Small,Capacitor_SMD:C_0603_1608Metric,"Unpolarized capacitor, small symbol",,
+"C4, ",1,10uF,C_Small,Capacitor_SMD:C_0603_1608Metric,"Unpolarized capacitor, small symbol",,C14663 
+"C5, ",1,4.7n,C_Small,Capacitor_SMD:C_0603_1608Metric,"Unpolarized capacitor, small symbol",,C53987 
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, ",40,D_Small,D_Small,Diode_SMD:D_SOD-123,"Diode, small symbol",,C524051 
+"D41, ",1,PRTR5V0U2X,PRTR5V0U2X,Package_TO_SOT_SMD:SOT-143,"Ultra low capacitance double rail-to-rail ESD protection diode, SOT-363",,C384891 
+"F1, ",1,500mA,Polyfuse_Small,Fuse:Fuse_1206_3216Metric,"Resettable fuse, polymeric positive temperature coefficient, small symbol",,C70076 
+"R1, R4, ",2,10k,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",,C25804 
+"R2, R3, ",2,22,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",,C23345 
+"R5, R6, ",2,5k1,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",,C23186 
+"R7, ",1,1M,R_Small,Resistor_SMD:R_0603_1608Metric,"Resistor, small symbol",,C22935 
+"U1, ",1,ATmega32U2-MU,ATmega32U2-MU,Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm,"16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, QFN-32",,C57345 
+"USB1, ",1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12,Type-C:HRO-TYPE-C-31-M-12,,,C165948 
+"Y1, ",1,Resonator_Small,Resonator_Small,Crystal:Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm,"Three pin ceramic resonator, small symbol",,C341521 
